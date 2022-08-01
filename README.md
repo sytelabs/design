@@ -3,7 +3,7 @@
   
   <h3>Syte Design Resources</h3>
   <p>Behind the scene of a design system that make Syte better and pleasing!</p>
-  <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the design resources »</strong></a>  
+  <a href="#resources"><strong>Explore the design resources »</strong></a>  
   <br></br>  
   
   <a href="https://github.com/syteos/">Home</a> ·
