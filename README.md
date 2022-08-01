@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/preview.png" width="300" align="center" />
   
-  <h3>Syte Design Resources</h3>
+  <h3>Syte Design</h3>
   <p>Behind the scene of a design system that make Syte better and pleasing!</p>
   <a href="#resources"><strong>Explore the design resources »</strong></a>  
   <br></br>  
