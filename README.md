@@ -31,6 +31,7 @@
       </ul>
     </li>
     <li><a href="#fonts">Fonts</a></li>
+    <li><a href="#color-scheme">Color Scheme</a></li>
     <li><a href="#acknowledgment">Acknowledgment</a></li>
   </ol>
 </details>
@@ -60,5 +61,7 @@ Here are the software Syte used to design almost all concept
 ## Branding
 
 ## Fonts
+
+## Color Scheme
 
 ## Acknowledgment
